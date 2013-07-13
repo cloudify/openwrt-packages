@@ -1,12 +1,8 @@
-# OpenWRT packages
+# librdkafka for OpenWRT
 
-Custom OpenWRT packages for my router :) 
+Package for [librdkafka](https://github.com/edenhill/librdkafka) by Magnus Edenhill
 
 [![endorse](https://api.coderwall.com/cloudify/endorsecount.png)](https://coderwall.com/cloudify)
-
-# Usage
-
-Add this repository to your `feeds.conf` as explained in the [feeds documentation](http://wiki.openwrt.org/doc/devel/feeds).
 
 # License
 
